@@ -2,6 +2,7 @@
 University of Helsinki Advanced Course in Programming (Python MOOC 2023)
 Final project, by Gözdenur Demir, 16 Oct 2023
 """
+
 import pygame,random
 
 class Sprite:
