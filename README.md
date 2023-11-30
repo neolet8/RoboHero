@@ -14,5 +14,5 @@ to be able to activate the code use the following character visuals in .png form
 -monster
 -robot
 
-https://github.com/neolet8/RoboHero/assets/44090329/7456a84b-e71b-4adf-8d68-6c79bd5993a4
+https://github.com/neolet8/RoboHero/assets/44090329/3d3c2841-bade-44cb-a0e6-e6cb2bf8a0df
 
